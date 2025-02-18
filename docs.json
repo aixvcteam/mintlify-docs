@@ -22,14 +22,11 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Solution",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "solution/overview",
+              "solution/architecture",
+              "solution/roadmap"
             ]
           }
         ]
