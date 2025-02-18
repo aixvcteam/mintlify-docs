@@ -9,60 +9,54 @@
   },
   "favicon": "/aixvc_favicon.png",
   "navigation": {
-    "tabs": [
+    "groups": [
       {
-        "groups": [
-          {
-            "group": "Get Started",
-            "pages": [
-              "introduction",
-              "concept",
-              "problem",
-              "mission"
-            ]
-          },
-          {
-            "group": "Solution",
-            "pages": [
-              "solution/overview",
-              "solution/architecture",
-              "solution/roadmap"
-            ]
-          },
-          {
-            "group": "Tokenomics",
-            "pages": [
-              "tokenomics/utility",
-              "tokenomics/business-model",
-              "tokenomics/distribution"
-            ]
-          },
-          {
-            "group": "Platform",
-            "pages": [
-              "platform/overview",
-              "platform/terminal"
-            ]
-          },
-          {
-            "group": "Community",
-            "pages": [
-              "community/growth"
-            ]
-          },
-          {
-            "group": "Conclusion",
-            "pages": [
-              "conclusion/final-word"
-            ]
-          }
+        "group": "Get Started",
+        "pages": [
+          "introduction",
+          "concept",
+          "problem",
+          "mission"
+        ]
+      },
+      {
+        "group": "Solution",
+        "pages": [
+          "solution/overview",
+          "solution/architecture",
+          "solution/roadmap"
+        ]
+      },
+      {
+        "group": "Tokenomics",
+        "pages": [
+          "tokenomics/utility",
+          "tokenomics/business-model",
+          "tokenomics/distribution"
+        ]
+      },
+      {
+        "group": "Platform",
+        "pages": [
+          "platform/overview",
+          "platform/terminal"
+        ]
+      },
+      {
+        "group": "Community",
+        "pages": [
+          "community/growth"
+        ]
+      },
+      {
+        "group": "Conclusion",
+        "pages": [
+          "conclusion/final-word"
         ]
       }
     ],
     "global": {
-      "anchors": [
-
-      ]
+      "anchors": []
     }
   },
   "logo": {
