@@ -29,6 +29,12 @@
               "solution/architecture",
               "solution/roadmap"
             ]
+          },
+          {
+            "group": "Tokenomics",
+            "pages": [
+              "tokenomics/utility"
+            ]
           }
         ]
       },
