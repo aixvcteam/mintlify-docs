@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "AIxVC Documentation",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#DFFF55",
     "light": "#07C983",
-    "dark": "#dfff55"
+    "dark": "#DFFF55"
   },
   "favicon": "/aixvc_favicon.png",
   "navigation": {
