@@ -67,8 +67,8 @@
     }
   },
   "logo": {
-    "light": "/logo/aixvc-logo.png",
-    "dark": "/logo/aixvc-logo.png"
+    "light": "/logo/AIxVC_LogoFA.svg",
+    "dark": "/logo/AIxVC_LogoFA.svg"
   },
   "navbar": {
     "primary": {
