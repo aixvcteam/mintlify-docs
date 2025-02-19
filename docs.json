@@ -1,14 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": {
-    "defaultMode": "dark",
-    "disableThemeToggle": true
-  },
+  "theme": "mint",
+  "defaultMode": "dark",
+  "disableThemeToggle": true,
   "name": "AIxVC Documentation",
   "colors": {
-    "primary": "#DFFF55",
-    "light": "#DFFF55",
-    "dark": "#DFFF55"
+    "primary": "#E2FF63",
+    "light": "#E2FF63",
+    "dark": "#E2FF63"
   },
   "favicon": "/aixvc_favicon.png",
   "navigation": {
