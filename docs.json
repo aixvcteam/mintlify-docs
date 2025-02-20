@@ -4,8 +4,7 @@
   "appearance": {
     "default": "dark",
     "strict": true,
-  }
-
+  },
   "name": "AIxVC Documentation",
   "colors": {
     "primary": "#E2FF63",
