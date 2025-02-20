@@ -1,7 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "default": "dark",
+  "theme": {
+    "modeToggle": {
+      "default": "dark",
+      "isHidden": true
+    }
+  },
   "strict": false,
   "name": "AIxVC Documentation",
   "colors": {
