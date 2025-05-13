@@ -22,11 +22,11 @@
         ]
       },
       {
-        "group": "Solution",
+        "group": "AIxVC",
         "pages": [
-          "solution/overview",
-          "solution/roadmap",
-          "solution/collaboration"
+          "AIxVC/overview",
+          "AIxVC/roadmap",
+          "AIxVC/collaboration"
         ]
       },
       {
