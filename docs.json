@@ -18,44 +18,31 @@
         "group": "Get Started",
         "pages": [
           "introduction",
-          "concept",
-          "problem",
-          "mission"
+          "opportunity"
         ]
       },
       {
         "group": "Solution",
         "pages": [
           "solution/overview",
-          "solution/architecture",
-          "solution/roadmap"
+          "solution/roadmap",
+          "solution/collaboration"
         ]
       },
       {
-        "group": "Tokenomics",
+        "group": "Axelrod",
         "pages": [
-          "tokenomics/utility",
-          "tokenomics/business-model",
-          "tokenomics/distribution"
+          "axelrod/introduction",
+          "axelrod/features",
+          "axelrod/roadmap",
+          "axelrod/AXR tokenomics"
         ]
       },
       {
-        "group": "Platform",
+        "group": "AI Agent Copy-Trading",
         "pages": [
           "platform/overview",
           "platform/terminal"
-        ]
-      },
-      {
-        "group": "Community",
-        "pages": [
-          "community/growth"
-        ]
-      },
-      {
-        "group": "Conclusion",
-        "pages": [
-          "conclusion/final-word"
         ]
       }
     ],
