@@ -40,12 +40,6 @@
         ]
       },
       {
-        "group": "Marketing Plan",
-        "pages": [
-          "marketing/phase1"
-        ]
-      },
-      {
         "group": "AI Agent Copy-Trading",
         "pages": [
           "platform/overview",
