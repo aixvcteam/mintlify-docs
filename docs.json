@@ -40,16 +40,6 @@
         ]
       },
       {
-        "group": "Axelrod",
-        "pages": [
-          "axelrod/introduction",
-          "axelrod/features",
-          "axelrod/phase2",
-          "axelrod/roadmap",
-          "axelrod/AXRtokenomics"
-        ]
-      },
-      {
         "group": "Marketing Plan",
         "pages": [
           "marketing/phase1"
