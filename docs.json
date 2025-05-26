@@ -30,7 +30,7 @@
         ]
       },
       {
-        "group": "Axelrod",
+        "group": "Axelrod Agent",
         "pages": [
           "axelrod/introduction",
           "axelrod/features",
