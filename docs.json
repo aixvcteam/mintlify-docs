@@ -38,6 +38,13 @@
           "axelrod/AXRtokenomics"
         ]
       },
+        {
+        "group": "AI Hedge Fund",
+        "pages": [
+          "AI-hedgefund/overview",
+          "platform/terminal"
+        ]
+      },
       {
         "group": "AI Agent Copy-Trading",
         "pages": [
