@@ -34,8 +34,13 @@
         "pages": [
           "axelrod/introduction",
           "axelrod/features",
-          "axelrod/roadmap",
-          "axelrod/AXRtokenomics"
+          "axelrod/roadmap"
+        ]
+      },
+            {
+        "group": "$AXR Token",
+        "pages": [
+          "axr-token/AXRtokenomics",
         ]
       },
         {
