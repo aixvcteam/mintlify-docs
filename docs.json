@@ -42,7 +42,8 @@
         "pages": [
           "axr-token/tokenomics",
           "axr-token/utility",
-          "axr-token/staking"
+          "axr-token/staking",
+          "axr-token/airdrop"
         ]
       },
         {
