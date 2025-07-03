@@ -41,7 +41,8 @@
         "group": "$AXR Token",
         "pages": [
           "axr-token/tokenomics",
-          "axr-token/utility"
+          "axr-token/utility",
+          "axr-token/staking"
         ]
       },
         {
