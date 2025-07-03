@@ -79,7 +79,7 @@
       "type": "button",
       "label": "Website",
       "href": "https://www.aixvc.io/",
-      "textColor": "black"
+      "labelColor": "black"
   }
   },
   "footer": {
