@@ -80,7 +80,7 @@
       "label": "Website",
       "href": "https://www.aixvc.io/",
        "style": {
-      "color": "black"
+      "color": "label-black"
     }
     }
   },
