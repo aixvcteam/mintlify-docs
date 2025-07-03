@@ -40,7 +40,8 @@
             {
         "group": "$AXR Token",
         "pages": [
-          "axr-token/tokenomics"
+          "axr-token/tokenomics",
+          "axr-token/utility"
         ]
       },
         {
