@@ -78,7 +78,10 @@
     "primary": {
       "type": "button",
       "label": "Website",
-      "href": "https://www.aixvc.io/"
+      "href": "https://www.aixvc.io/",
+       "style": {
+      "color": "black"
+    }
     }
   },
   "footer": {
